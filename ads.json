@@ -1,56 +1,59 @@
 {
   "$schema": "schema/ads.schema.json",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-08-12T00:00:00+08:00",
   "refresh_interval": 3600,
-  "ads": [
-    {
-      "id": "slot-1",
-      "enabled": true,
-      "title": "八类万兆电竟级网线",
-      "image": "images/slot-1.jpg",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAToJK1olWAYKVl5UC00RBl8IGloUXgEDVVxUDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGgJGlkcWw8dDRsBVXtXSzwWHh4SL2RxIiwtbD9tXQ9jYA9DUQoyVW5eCUkeBmsOGlgWbTYCU24fZglHXyRRTwBNFVIyVW5dDkIQB2oMGVwSWQAKZFldAXtMVgENSF5FXQZWUQ0NX0tHM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZdCEIXC20LB1sRXgQHXUJdDkIQB2oMGV4TXw4KZFxcCU8eM1_WlutrLmVmUSouUz1ACmlOHgMWg4uyRSwtCEkfAX44bydwPXBmESk8QUteYxUIWyFOCl1LNCRdQQtjfWhtdVkQXFlGMFkDYx9RYx1LaD1qBjYHZFlbCXsWMw",
-      "alt": "广告位 1"
-    },
-    {
-      "id": "slot-2",
-      "enabled": true,
-      "title": "京东云无线宝AX6600雅典娜128G",
-      "image": "images/slot-2.png",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwIBVl1UDUgUAF8IGlodWg8DXVxUD0IQA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcPElocXw8FXVldFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZdVANebBxLRQoBYSFABWNAAERbVAlBD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYHV19fAU0fM244G10cWgIHUFdaDkIVBl8PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JH1IUXA8FVEJdD04VBWYUG10cWgIHUFdcDkgQBl8KGloRVDYyitPtdD9eejUIYz9cX0ZfMw4oXpWas350bFIRWQITZDgNbU1nWCtvGSJwIAAAPx0CX0ltfmkKQh0SHWRVMTAfTh9jXmZtGFxHFlV6EV07aDcnBl8PHVolXDY",
-      "alt": "广告位 2"
-    },
-    {
-      "id": "slot-3",
-      "enabled": true,
-      "title": "cudy TR3000 openwrt 开箱即用",
-      "image": "images/slot-3.png",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olWAcFUldcCkoTBV8IGlsSWQMHVlxdC0oRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gMHl4XXwYBVVheFxJSXzI4RghNJ1J3E0A9Si1cfBJYEilXX1BnJFJROEonAG4KEl4RWwcBV25tCEwnQgEIHl0WWQADUG5cOEsRCmgMHl0XXA8CUF5tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8TAWgOHVIJXQcFV1xfFEsRCmgMHl0WVQMLVV5tCkoWB2Y4K4WY7XoGVD9ZfDRLAhpfRiB8XFbc2e5MejsVB2kPCmtcHANJVA02Cz4UcAhDeBNPBn9gDTkWawN8R25zEl57X3x_FS0iYyN1QDwLTygQWFpfZFttD00WM244",
-      "alt": "广告位 3"
-    },
-    {
-      "id": "slot-4",
-      "enabled": true,
-      "title": "爱快iKuai企业级 有线路由器 5口全千兆 多WAN/LAN",
-      "image": "images/slot-4.png",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olXw8EU1hcDEgWB18IGlsVXg4BVVlcCU8SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28LE1gUWgcDUFtbFxJSXzI4bi9eIHZWHQQ9eBtgZh9BeAlTWQJcJFJROEonAG4KEl4RWwcBV25tCEwnQgEIEloXVAMKU25cOEsRCmgMHl0SXQ8HXV1tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8VB2kPGl4JXQIHUF1aFEsRCmgMHl0RWQ8DUlhtCkoWB2Y4K4WY7X8KVTUKDBVgaCp9YAZWGGDc2e5MdDwVAWcJCmtpJGZ8DSUmXgpcawl2fVwRVUNcETgjbkxKRWhjeTt7X2VnMgFecUMSQRRgGV90D0N_ZFttD00WM244",
-      "alt": "广告位 4"
-    },
-    {
-      "id": "slot-5",
-      "enabled": true,
-      "title": "天虹 QN-SE 迷你主机 支持 openclaw 软路由 NAS",
-      "image": "images/slot-5.jpg",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwQFXV5bC04VAF8IGlsWWwUEXF1dC0IfCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wOGF0dXgYBXVZUFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZ6EQ4Nck5cZAxOTwFsGnJqERgdCA5RD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYAXFlZCUgXM244G10cWgIHXV9VAU0UC18PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JHlwdVAcDUUJdDUkeA2YUG10cWgIHXV9aCE0eBF8KGloRVDYyitPtb0N0WxwMcC9VOU0FDCMHe5Was356a1ISVAcTZF0daBdtdRFWQSkRWloKDl4EbwBuBDMAeAljPm9VNDBfCCsQAR0JRVJpK1MGFT4EShcnBl8PHVolXDY",
-      "alt": "广告位 5"
-    },
-    {
-      "id": "slot-6",
-      "enabled": true,
-      "title": "树莓派5 开发板 支持 软路由 NAS",
-      "image": "images/slot-6.jpg",
-      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAT4JK1olXwQAVVZfAEkVAV8IGlsTWgMLXV5dDUsXAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2kPHlIcXQYHVF5fFxJSXzI4TAhrJWN3Jis_aD1PAh1ebQ5dO3McNFJROEonAG4KEl4RWwcBV25tCEwnQgEIGFkWWgQBVW5cOEsRCmgMHlIXVQcCVVttD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCUwTAGoLHFMJXQUHVFlYFEsRCmgMHlIXWw8KXVhtCkoWB2Y4K4WY7WMHJhgWDw9iWhtcGj9LD1Hc2e5MejsXB24OCmsSFG94XTxZChdjazxyYF5eBV15KQ0nc05Od2YBHjJ7X1hDIR0YVzMRcw1sGQ1mFW1HZFttCkkSB2Y4Gms",
-      "alt": "广告位 6"
-    }
-  ]
+  "default_locale": "zh-hans",
+  "locales": {
+    "zh-hans": [
+      {
+        "id": "slot-1",
+        "enabled": true,
+        "title": "八类万兆 电竟级 网线",
+        "image": "images/slot-1.jpg",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAToJK1olWAYKVl5UC00RBl8IGloUXgEDVVxUDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGgJGlkcWw8dDRsBVXtXSzwWHh4SL2RxIiwtbD9tXQ9jYA9DUQoyVW5eCUkeBmsOGlgWbTYCU24fZglHXyRRTwBNFVIyVW5dDkIQB2oMGVwSWQAKZFldAXtMVgENSF5FXQZWUQ0NX0tHM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZdCEIXC20LB1sRXgQHXUJdDkIQB2oMGV4TXw4KZFxcCU8eM1_WlutrLmVmUSouUz1ACmlOHgMWg4uyRSwtCEkfAX44bydwPXBmESk8QUteYxUIWyFOCl1LNCRdQQtjfWhtdVkQXFlGMFkDYx9RYx1LaD1qBjYHZFlbCXsWMw",
+        "alt": "广告位 1"
+      },
+      {
+        "id": "slot-2",
+        "enabled": true,
+        "title": "京东云无线宝AX6600雅典娜128G",
+        "image": "images/slot-2.png",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwIBVl1UDUgUAF8IGlodWg8DXVxUD0IQA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcPElocXw8FXVldFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZdVANebBxLRQoBYSFABWNAAERbVAlBD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYHV19fAU0fM244G10cWgIHUFdaDkIVBl8PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JH1IUXA8FVEJdD04VBWYUG10cWgIHUFdcDkgQBl8KGloRVDYyitPtdD9eejUIYz9cX0ZfMw4oXpWas350bFIRWQITZDgNbU1nWCtvGSJwIAAAPx0CX0ltfmkKQh0SHWRVMTAfTh9jXmZtGFxHFlV6EV07aDcnBl8PHVolXDY",
+        "alt": "广告位 2"
+      },
+      {
+        "id": "slot-3",
+        "enabled": true,
+        "title": "cudy TR3000 openwrt 开箱即用",
+        "image": "images/slot-3.png",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olWAcFUldcCkoTBV8IGlsSWQMHVlxdC0oRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gMHl4XXwYBVVheFxJSXzI4RghNJ1J3E0A9Si1cfBJYEilXX1BnJFJROEonAG4KEl4RWwcBV25tCEwnQgEIHl0WWQADUG5cOEsRCmgMHl0XXA8CUF5tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8TAWgOHVIJXQcFV1xfFEsRCmgMHl0WVQMLVV5tCkoWB2Y4K4WY7XoGVD9ZfDRLAhpfRiB8XFbc2e5MejsVB2kPCmtcHANJVA02Cz4UcAhDeBNPBn9gDTkWawN8R25zEl57X3x_FS0iYyN1QDwLTygQWFpfZFttD00WM244",
+        "alt": "广告位 3"
+      },
+      {
+        "id": "slot-4",
+        "enabled": true,
+        "title": "爱快iKuai企业级 有线路由器 5口全千兆 多WAN/LAN",
+        "image": "images/slot-4.png",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olXw8EU1hcDEgWB18IGlsVXg4BVVlcCU8SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28LE1gUWgcDUFtbFxJSXzI4bi9eIHZWHQQ9eBtgZh9BeAlTWQJcJFJROEonAG4KEl4RWwcBV25tCEwnQgEIEloXVAMKU25cOEsRCmgMHl0SXQ8HXV1tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8VB2kPGl4JXQIHUF1aFEsRCmgMHl0RWQ8DUlhtCkoWB2Y4K4WY7X8KVTUKDBVgaCp9YAZWGGDc2e5MdDwVAWcJCmtpJGZ8DSUmXgpcawl2fVwRVUNcETgjbkxKRWhjeTt7X2VnMgFecUMSQRRgGV90D0N_ZFttD00WM244",
+        "alt": "广告位 4"
+      },
+      {
+        "id": "slot-5",
+        "enabled": true,
+        "title": "天虹 QN-SE 迷你主机 支持 openclaw 软路由 NAS",
+        "image": "images/slot-5.jpg",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwQFXV5bC04VAF8IGlsWWwUEXF1dC0IfCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wOGF0dXgYBXVZUFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZ6EQ4Nck5cZAxOTwFsGnJqERgdCA5RD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYAXFlZCUgXM244G10cWgIHXV9VAU0UC18PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JHlwdVAcDUUJdDUkeA2YUG10cWgIHXV9aCE0eBF8KGloRVDYyitPtb0N0WxwMcC9VOU0FDCMHe5Was356a1ISVAcTZF0daBdtdRFWQSkRWloKDl4EbwBuBDMAeAljPm9VNDBfCCsQAR0JRVJpK1MGFT4EShcnBl8PHVolXDY",
+        "alt": "广告位 5"
+      },
+      {
+        "id": "slot-6",
+        "enabled": true,
+        "title": "树莓派5 开发板 支持 软路由 NAS",
+        "image": "images/slot-6.jpg",
+        "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAT4JK1olXwQAVVZfAEkVAV8IGlsTWgMLXV5dDUsXAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2kPHlIcXQYHVF5fFxJSXzI4TAhrJWN3Jis_aD1PAh1ebQ5dO3McNFJROEonAG4KEl4RWwcBV25tCEwnQgEIGFkWWgQBVW5cOEsRCmgMHlIXVQcCVVttD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCUwTAGoLHFMJXQUHVFlYFEsRCmgMHlIXWw8KXVhtCkoWB2Y4K4WY7WMHJhgWDw9iWhtcGj9LD1Hc2e5MejsXB24OCmsSFG94XTxZChdjazxyYF5eBV15KQ0nc05Od2YBHjJ7X1hDIR0YVzMRcw1sGQ1mFW1HZFttCkkSB2Y4Gms",
+        "alt": "广告位 6"
+      }
+    ]
+  }
 }
