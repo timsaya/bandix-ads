@@ -14,10 +14,10 @@
     },
     {
       "id": "slot-2",
-      "enabled": false,
-      "title": "广告位 2",
-      "image": "images/slot-2.svg",
-      "href": "",
+      "enabled": true,
+      "title": "京东云无线宝AX6600雅典娜128G",
+      "image": "images/slot-2.png",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwIBVl1UDUgUAF8IGlodWg8DXVxUD0IQA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcPElocXw8FXVldFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZdVANebBxLRQoBYSFABWNAAERbVAlBD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYHV19fAU0fM244G10cWgIHUFdaDkIVBl8PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JH1IUXA8FVEJdD04VBWYUG10cWgIHUFdcDkgQBl8KGloRVDYyitPtdD9eejUIYz9cX0ZfMw4oXpWas350bFIRWQITZDgNbU1nWCtvGSJwIAAAPx0CX0ltfmkKQh0SHWRVMTAfTh9jXmZtGFxHFlV6EV07aDcnBl8PHVolXDY",
       "alt": "广告位 2"
     },
     {
