@@ -1,0 +1,56 @@
+{
+  "$schema": "schema/ads.schema.json",
+  "version": 1,
+  "updated_at": "2026-08-12T00:00:00+08:00",
+  "refresh_interval": 3600,
+  "ads": [
+    {
+      "id": "slot-1",
+      "enabled": false,
+      "title": "广告位 1",
+      "image": "images/slot-1.svg",
+      "href": "",
+      "alt": "广告位 1"
+    },
+    {
+      "id": "slot-2",
+      "enabled": false,
+      "title": "广告位 2",
+      "image": "images/slot-2.svg",
+      "href": "",
+      "alt": "广告位 2"
+    },
+    {
+      "id": "slot-3",
+      "enabled": false,
+      "title": "广告位 3",
+      "image": "images/slot-3.svg",
+      "href": "",
+      "alt": "广告位 3"
+    },
+    {
+      "id": "slot-4",
+      "enabled": false,
+      "title": "广告位 4",
+      "image": "images/slot-4.svg",
+      "href": "",
+      "alt": "广告位 4"
+    },
+    {
+      "id": "slot-5",
+      "enabled": false,
+      "title": "广告位 5",
+      "image": "images/slot-5.svg",
+      "href": "",
+      "alt": "广告位 5"
+    },
+    {
+      "id": "slot-6",
+      "enabled": false,
+      "title": "广告位 6",
+      "image": "images/slot-6.svg",
+      "href": "",
+      "alt": "广告位 6"
+    }
+  ]
+}
