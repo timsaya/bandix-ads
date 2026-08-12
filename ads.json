@@ -38,18 +38,18 @@
     },
     {
       "id": "slot-5",
-      "enabled": false,
-      "title": "广告位 5",
-      "image": "images/slot-5.svg",
-      "href": "",
+      "enabled": true,
+      "title": "天虹 QN-SE 迷你主机 支持 openclaw 软路由 NAS",
+      "image": "images/slot-5.jpg",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAVAJK1olXwQFXV5bC04VAF8IGlsWWwUEXF1dC0IfCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wOGF0dXgYBXVZUFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTZ6EQ4Nck5cZAxOTwFsGnJqERgdCA5RD2M4GmsWXAQLUVpbCUgUM18IHGtUMwYAXFlZCUgXM244G10cWgIHXV9VAU0UC18PG1IlBlNsUQ1YWEsXV2pbSwwVDTYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8JHlwdVAcDUUJdDUkeA2YUG10cWgIHXV9aCE0eBF8KGloRVDYyitPtb0N0WxwMcC9VOU0FDCMHe5Was356a1ISVAcTZF0daBdtdRFWQSkRWloKDl4EbwBuBDMAeAljPm9VNDBfCCsQAR0JRVJpK1MGFT4EShcnBl8PHVolXDY",
       "alt": "广告位 5"
     },
     {
       "id": "slot-6",
-      "enabled": false,
-      "title": "广告位 6",
-      "image": "images/slot-6.svg",
-      "href": "",
+      "enabled": true,
+      "title": "树莓派5 开发板 支持 软路由 NAS",
+      "image": "images/slot-6.jpg",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAT4JK1olXwQAVVZfAEkVAV8IGlsTWgMLXV5dDUsXAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2kPHlIcXQYHVF5fFxJSXzI4TAhrJWN3Jis_aD1PAh1ebQ5dO3McNFJROEonAG4KEl4RWwcBV25tCEwnQgEIGFkWWgQBVW5cOEsRCmgMHlIXVQcCVVttD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCUwTAGoLHFMJXQUHVFlYFEsRCmgMHlIXWw8KXVhtCkoWB2Y4K4WY7WMHJhgWDw9iWhtcGj9LD1Hc2e5MejsXB24OCmsSFG94XTxZChdjazxyYF5eBV15KQ0nc05Od2YBHjJ7X1hDIR0YVzMRcw1sGQ1mFW1HZFttCkkSB2Y4Gms",
       "alt": "广告位 6"
     }
   ]
