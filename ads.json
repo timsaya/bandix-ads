@@ -6,10 +6,10 @@
   "ads": [
     {
       "id": "slot-1",
-      "enabled": false,
-      "title": "广告位 1",
-      "image": "images/slot-1.svg",
-      "href": "",
+      "enabled": true,
+      "title": "八类万兆电竟级网线",
+      "image": "images/slot-1.jpg",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAToJK1olWAYKVl5UC00RBl8IGloUXgEDVVxUDkInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGgJGlkcWw8dDRsBVXtXSzwWHh4SL2RxIiwtbD9tXQ9jYA9DUQoyVW5eCUkeBmsOGlgWbTYCU24fZglHXyRRTwBNFVIyVW5dDkIQB2oMGVwSWQAKZFldAXtMVgENSF5FXQZWUQ0NX0tHM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZdCEIXC20LB1sRXgQHXUJdDkIQB2oMGV4TXw4KZFxcCU8eM1_WlutrLmVmUSouUz1ACmlOHgMWg4uyRSwtCEkfAX44bydwPXBmESk8QUteYxUIWyFOCl1LNCRdQQtjfWhtdVkQXFlGMFkDYx9RYx1LaD1qBjYHZFlbCXsWMw",
       "alt": "广告位 1"
     },
     {
