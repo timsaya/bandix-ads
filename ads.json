@@ -22,18 +22,18 @@
     },
     {
       "id": "slot-3",
-      "enabled": false,
-      "title": "广告位 3",
-      "image": "images/slot-3.svg",
-      "href": "",
+      "enabled": true,
+      "title": "cudy TR3000 openwrt 开箱即用",
+      "image": "images/slot-3.png",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olWAcFUldcCkoTBV8IGlsSWQMHVlxdC0oRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2gMHl4XXwYBVVheFxJSXzI4RghNJ1J3E0A9Si1cfBJYEilXX1BnJFJROEonAG4KEl4RWwcBV25tCEwnQgEIHl0WWQADUG5cOEsRCmgMHl0XXA8CUF5tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8TAWgOHVIJXQcFV1xfFEsRCmgMHl0WVQMLVV5tCkoWB2Y4K4WY7XoGVD9ZfDRLAhpfRiB8XFbc2e5MejsVB2kPCmtcHANJVA02Cz4UcAhDeBNPBn9gDTkWawN8R25zEl57X3x_FS0iYyN1QDwLTygQWFpfZFttD00WM244",
       "alt": "广告位 3"
     },
     {
       "id": "slot-4",
-      "enabled": false,
-      "title": "广告位 4",
-      "image": "images/slot-4.svg",
-      "href": "",
+      "enabled": true,
+      "title": "爱快iKuai企业级 有线路由器 5口全千兆 多WAN/LAN",
+      "image": "images/slot-4.png",
+      "href": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATwJK1olXw8EU1hcDEgWB18IGlsVXg4BVVlcCU8SBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28LE1gUWgcDUFtbFxJSXzI4bi9eIHZWHQQ9eBtgZh9BeAlTWQJcJFJROEonAG4KEl4RWwcBV25tCEwnQgEIEloXVAMKU25cOEsRCmgMHl0SXQ8HXV1tD0seMzRddV5GWFYCVApYWxtAAz84K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8VB2kPGl4JXQIHUF1aFEsRCmgMHl0RWQ8DUlhtCkoWB2Y4K4WY7X8KVTUKDBVgaCp9YAZWGGDc2e5MdDwVAWcJCmtpJGZ8DSUmXgpcawl2fVwRVUNcETgjbkxKRWhjeTt7X2VnMgFecUMSQRRgGV90D0N_ZFttD00WM244",
       "alt": "广告位 4"
     },
     {
